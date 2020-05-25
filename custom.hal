@@ -1,0 +1,2 @@
+# Place any HAL commands in this file that you want to run before the GUI.
+# This file will not be written over by the configuration tool.
